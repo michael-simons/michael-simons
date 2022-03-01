@@ -36,7 +36,7 @@ Apart from all of that, I have a blog [info.michael-simons.eu](https://info.mich
 stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons) and I do have a [LinkedIn profile](https://www.linkedin.com/in/michael-simons-196712139/).
 However, my primary feed is on Twitter: [@rotnroll666](https://twitter.com/rotnroll666).
 
-[![Spring Boot Buch](img/logo_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
-[![arc42 by example](img/logo_arc42byexample_leanpub.png )](https://leanpub.com/arc42byexample)&#160;&#160;
-[![arc42 by example](img/logo_arc42byexample_packt.png )](https://www.packtpub.com/product/arc42-by-example/9781839214356e)
-![Java Champions](img/logo_javachampion.png)
+[![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
+[![arc42 by example](img/badge_arc42byexample_leanpub.png )](https://leanpub.com/arc42byexample)&#160;&#160;
+[![arc42 by example](img/badge_arc42byexample_packt.png )](https://www.packtpub.com/product/arc42-by-example/9781839214356e)
+![Java Champions](img/badge_javachampion.png)
