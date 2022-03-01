@@ -4,7 +4,7 @@ I'm Michael, software engineer from Germany. My official title is _Staff Softwar
 Titles which theoretically would fit as well "does stuff with or do computers", "break things as a service" and "source of endless rants" 😉.
 
 I have been working in IT since the early 2000s. My goto language of choice is Java ☕️ and I am a recognized [Java Champion](https://dev.java/community/jcs/)
-and a published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
+and published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
 [arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample)). I founded the Java user group [EuregJUG Maas-Rhine](http://euregjug.eu) together with @dl1ely.
 
 I am a Spring User for more than a decade and one of my earliest projects  ([Dailyfratze](https://dailyfratze.de/pages/technical_details?lang=en)) is still around, alive 
@@ -20,7 +20,7 @@ I have contributed to broad number of frameworks and ecosystems, such as
 * [jOOQ](https://github.com/jOOQ/jOOQ/commits?author=michael-simons)
 
 Since 2018 I am the maintainer of [Spring Data Neo4j](https://github.com/spring-projects/spring-data-neo4j) and [Neo4j-OGM](https://github.com/neo4j/neo4j-ogm) together
-with @meistermeier.
+with [@meistermeier](https://github.com/meistermeier).
 
 I created the following projects which I do actively maintain:
 
