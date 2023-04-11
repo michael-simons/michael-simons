@@ -29,6 +29,12 @@ I created the following projects which I do actively maintain:
 * [biking2](https://github.com/michael-simons/biking2): A project around cycling which I used to learn Spring Boot and educate about Spring Boot
 * [scrobbles4j](https://github.com/michael-simons/scrobbles4j): Years of giving talks about relational databases and tracking listening habbits culminated in a life application displaying my latest songs
 
+My effort for the Neo4j Testcontainers integration started back in [2018](https://github.com/testcontainers/testcontainers-java/pull/993) and cumulated in Neo4j being one of six launch partners for the [AtomicJar official Testcontainers modules](https://www.atomicjar.com/2023/04/testcontainers-official-modules/).
+
+For my work integration the Neo4j Java-Driver and Neo4j-OGM into Quarkus with [Quarkus-Neo4j](https://github.com/quarkiverse/quarkus-neo4j) and [Neo4j-Quarkus-OGM](https://github.com/neo4j/neo4j-ogm-quarkus) I was awarded 3 times in a row with "I Made Quarkus" (1.x, 2.x and 3.x). 
+
+Since 2019 I was the driving author behind making the Neo4j-Java-Driver compatible and officially tested with [GraalVM](https://www.graalvm.org/native-image/libraries-and-frameworks/), see [634](https://github.com/neo4j/neo4j-java-driver/pull/634), [663](https://github.com/neo4j/neo4j-java-driver/pull/663) and [neo4j-java-driver-native-smoke-tests](https://github.com/neo4j-drivers/neo4j-java-driver-native-smoke-tests).
+
 Last but not least, I have this [Advent of Code](https://github.com/michael-simons/aoc) repository in which I went a bit nuts in terms of programming languages:
 I love Java, but I try to stay on top of other things, too.
 
