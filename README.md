@@ -30,6 +30,7 @@ I created the following projects which I do actively maintain:
 * [scrobbles4j](https://github.com/michael-simons/scrobbles4j): Years of giving talks about relational databases and tracking listening habbits culminated in a life application displaying my latest songs
 
 My effort for the Neo4j Testcontainers integration started back in [2018](https://github.com/testcontainers/testcontainers-java/pull/993) and cumulated in Neo4j being one of six launch partners for the [AtomicJar official Testcontainers modules](https://www.atomicjar.com/2023/04/testcontainers-official-modules/).
+In mid 2023 I was recognized by [AtomicJar](https://www.atomicjar.com/2023/07/announcing-the-testcontainers-community-champions-program/) as [Community Champion](https://testcontainers.com/community-champions/michael-simons/) together with a great group of other [champions](https://testcontainers.com/community-champions/). I feel really honored to be part of that group.
 
 For my work integration the Neo4j Java-Driver and Neo4j-OGM into Quarkus with [Quarkus-Neo4j](https://github.com/quarkiverse/quarkus-neo4j) and [Neo4j-Quarkus-OGM](https://github.com/neo4j/neo4j-ogm-quarkus) I was awarded 3 times in a row with "I Made Quarkus" (1.x, 2.x and 3.x). 
 
