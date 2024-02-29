@@ -3,12 +3,17 @@ Hi there 👋
 I'm Michael, software engineer from Germany. My official title is _Staff Software Engineer_ and I work at [Neo4j](https://neo4j.com).
 Titles which theoretically would fit as well "does stuff with or do computers", "break things as a service" and "source of endless rants" 😉.
 
-I have been working in IT since the early 2000s. My goto language of choice is Java ☕️ and I am a recognized [Java Champion](https://dev.java/community/jcs/)
-and published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
-[arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample)). I founded the Java user group [EuregJUG Maas-Rhine](http://euregjug.eu) together with @dl1ely.
+I have been working in IT since the early 2000s. My goto language of choice is Java ☕️.
+I am a published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
+[arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample)) and a recognized [Java Champion](https://dev.java/community/jcs/).
+In recognition and appreciation for my technical and community leadership contributions to the Oracle communities worldwide demonstrated during June 2022 – May 2023 through my work regarding GraalVM I was presented an Oracle Ace Associate award in 2024.
+
+![Java Champions](img/badge_javachampion.png)&#160;&#160;
+![Oracle Ace Associate](img/badge_oracle_associate_2024.png)
 
 I am a Spring User for more than a decade and one of my earliest projects  ([Dailyfratze](https://dailyfratze.de/pages/technical_details?lang=en)) is still around, alive 
 and kicking.
+In 2015 I founded the Java user group [EuregJUG Maas-Rhine](http://euregjug.eu) together with @dl1ely.
 
 I have contributed to broad number of frameworks and ecosystems, such as
 
@@ -36,14 +41,19 @@ For my work integration the Neo4j Java-Driver and Neo4j-OGM into Quarkus with [Q
 
 Since 2019 I was the driving author behind making the Neo4j-Java-Driver compatible and officially tested with [GraalVM](https://www.graalvm.org/native-image/libraries-and-frameworks/), see [634](https://github.com/neo4j/neo4j-java-driver/pull/634), [663](https://github.com/neo4j/neo4j-java-driver/pull/663) and [neo4j-java-driver-native-smoke-tests](https://github.com/neo4j-drivers/neo4j-java-driver-native-smoke-tests).
 
+I am the project lead for the [Neo4j JDBC Driver v6](https://github.com/neo4j/neo4j-jdbc/tree/main), including a unique approach of translating SQL to Cypher, by combining jOOQ *and* the Cypher-DSL.
+
+In 2023 I started writing my third book, [DuckDB in Action](https://www.manning.com/books/duckdb-in-action), together with [Michael Hunger](https://github.com/jexp) and [Mark Needham](https://github.com/mneedham).
+
 Last but not least, I have this [Advent of Code](https://github.com/michael-simons/aoc) repository in which I went a bit nuts in terms of programming languages:
 I love Java, but I try to stay on top of other things, too.
 
 Apart from all of that, I have a blog [info.michael-simons.eu](https://info.michael-simons.eu), my slides are on [speakerdeck](http://speakerdeck.com/michaelsimons), I answer
 stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons) and I do have a [LinkedIn profile](https://www.linkedin.com/in/michael-simons-196712139/).
-However, my primary feed is on Twitter: [@rotnroll666](https://twitter.com/rotnroll666) and I am evaluating <a rel="me" href="https://mastodon.social/@rotnroll666">Mastodon</a>.
+However, my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
+My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content and you shouldn't either.
 
 [![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
-[![arc42 by example](img/badge_arc42byexample_leanpub.png )](https://leanpub.com/arc42byexample)&#160;&#160;
-[![arc42 by example](img/badge_arc42byexample_packt.png )](https://www.packtpub.com/product/arc42-by-example/9781839214356e)
-![Java Champions](img/badge_javachampion.png)
+[![arc42 by example](img/badge_arc42byexample_leanpub.png)](https://leanpub.com/arc42byexample)&#160;&#160;
+[![arc42 by example](img/badge_arc42byexample_packt.png)](https://www.packtpub.com/product/arc42-by-example/9781839214356e)&#160;&#160;
+[![DuckDB in Action](img/badge_duckdb-in-action.png)](https://www.manning.com/books/duckdb-in-action)
