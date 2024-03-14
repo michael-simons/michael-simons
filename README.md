@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Michael, software engineer from Germany. My official title is _Staff Software Engineer_ and I work at [Neo4j](https://neo4j.com).
+I'm Michael, software engineer from Germany. My official title is _Senior Staff Software Engineer_ and I work at [Neo4j](https://neo4j.com).
 Titles which theoretically would fit as well "does stuff with or do computers", "break things as a service" and "source of endless rants" 😉.
 
 I have been working in IT since the early 2000s. My goto language of choice is Java ☕️.
