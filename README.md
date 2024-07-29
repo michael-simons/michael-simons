@@ -43,7 +43,8 @@ Since 2019 I was the driving author behind making the Neo4j-Java-Driver compatib
 
 I am the project lead for the [Neo4j JDBC Driver v6](https://github.com/neo4j/neo4j-jdbc/tree/main), including a unique approach of translating SQL to Cypher, by combining jOOQ *and* the Cypher-DSL.
 
-In 2023 I started writing my third book, [DuckDB in Action](https://www.manning.com/books/duckdb-in-action), together with [Michael Hunger](https://github.com/jexp) and [Mark Needham](https://github.com/mneedham).
+In 2023 I started writing my third book, [DuckDB in Action](https://www.manning.com/books/duckdb-in-action), together with [Michael Hunger](https://github.com/jexp) and [Mark Needham](https://github.com/mneedham). 
+The book went to print in July 2024, and is available in various formats at Manning and of course, on Amazon.
 
 Last but not least, I have this [Advent of Code](https://github.com/michael-simons/aoc) repository in which I went a bit nuts in terms of programming languages:
 I love Java, but I try to stay on top of other things, too.
