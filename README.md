@@ -1,15 +1,19 @@
 Hi there 👋
 
 I'm Michael, software engineer from Germany. My official title is _Senior Staff Software Engineer_ and I work at [Neo4j](https://neo4j.com).
+I am an [iSAQB®](https://www.isaqb.org) certified professional for Software Architecture.
 Titles which theoretically would fit as well "does stuff with or do computers", "break things as a service" and "source of endless rants" 😉.
 
 I have been working in IT since the early 2000s. My goto language of choice is Java ☕️.
 I am a published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
 [arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample)) and a recognized [Java Champion](https://dev.java/community/jcs/).
 In recognition and appreciation for my technical and community leadership contributions to the Oracle communities worldwide demonstrated during June 2022 – May 2023 through my work regarding GraalVM I was presented an Oracle Ace Associate award in 2024.
+I hold a bunch of certificates, including all Java LTS releases since 1.5, and several from [Neo4j](https://graphacademy.neo4j.com/c/b8e56e73-6367-4a2d-a2fe-67c7bf5af206), covering databases versions 3.5, 4 and 5.
+The PRINCE2® Registered Practitioner was time-limited and ended in 2018.
 
-![Java Champions](img/badge_javachampion.png)&#160;&#160;
-![Oracle Ace Associate](img/badge_oracle_associate_2024.png)
+[![Java Champions](img/badge_javachampion.png)](https://github.com/aalmiray/java-champions/blob/fabc21ae3c3c7938279ec9fd64778c01db6f785b/java-champions.yml#L3232)&#160;&#160;
+![Oracle Ace Associate](img/badge_oracle_associate_2024.png)&#160;&#160;&#160;&#160;
+[![OCP Java SE 17 Developer](img/badge_ocp_java17.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=42AF9F7E99B6FC957DBCFA5DDD0FDC01B18FD3F8F49138BF7763766653D4722B)
 
 I am a Spring User for more than a decade and one of my earliest projects  ([Dailyfratze](https://dailyfratze.de/pages/technical_details?lang=en)) is still around, alive 
 and kicking.
@@ -52,9 +56,9 @@ I love Java, but I try to stay on top of other things, too.
 Apart from all of that, I have a blog [info.michael-simons.eu](https://info.michael-simons.eu), my slides are on [speakerdeck](http://speakerdeck.com/michaelsimons), I answer
 stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons) and I do have a [LinkedIn profile](https://www.linkedin.com/in/michael-simons-196712139/).
 However, my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
-My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content and you shouldn't either.
+My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content, and you shouldn't either.
 
-[![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
+[[![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_leanpub.png)](https://leanpub.com/arc42byexample)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_packt.png)](https://www.packtpub.com/product/arc42-by-example/9781839214356e)&#160;&#160;
 [![DuckDB in Action](img/badge_duckdb-in-action.png)](https://www.manning.com/books/duckdb-in-action)
