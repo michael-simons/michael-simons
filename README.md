@@ -59,7 +59,7 @@ stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons)
 However, my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
 My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content, and you shouldn't either.
 
-[[![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
+[![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_leanpub.png)](https://leanpub.com/arc42byexample)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_packt.png)](https://www.packtpub.com/product/arc42-by-example/9781839214356e)&#160;&#160;
 [![DuckDB in Action](img/badge_duckdb-in-action.png)](https://www.manning.com/books/duckdb-in-action)
