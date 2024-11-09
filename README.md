@@ -57,7 +57,7 @@ I love Java, but I try to stay on top of other things, too.
 Apart from all of that, I have a blog [info.michael-simons.eu](https://info.michael-simons.eu), my slides are on [speakerdeck](http://speakerdeck.com/michaelsimons), I answer
 stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons) and I do have a [LinkedIn profile](https://www.linkedin.com/in/michael-simons-196712139/).
 However, my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
-My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content, and you shouldn't either. I want accept any new follower requests there.
+My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content, and you shouldn't either. I won't accept any new follower requests there.
 
 [![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_leanpub.png)](https://leanpub.com/arc42byexample)&#160;&#160;
