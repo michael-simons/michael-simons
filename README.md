@@ -5,8 +5,7 @@ I am an [iSAQB®](https://www.isaqb.org) certified professional for Software Arc
 Titles which theoretically would fit as well "does stuff with or do computers", "break things as a service" and "source of endless rants" 😉.
 
 I have been working in IT since the early 2000s. My goto language of choice is Java ☕️.
-I am a published author (["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and 
-[arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample)) and a recognized [Java Champion](https://dev.java/community/jcs/).
+I am a published author ([arc42 by example, EN 2014 – 2015](https://leanpub.com/arc42byexample), ["Spring Boot - Moderne Softwareentwicklung im Spring Ökosystem", DE 2018](http://springbootbuch.de) and ["DuckDB in Action", EN 2024](https://www.manning.com/books/duckdb-in-action)) and a recognized [Java Champion](https://dev.java/community/jcs/).
 In recognition and appreciation for my technical and community leadership contributions to the Oracle communities worldwide demonstrated during June 2022 – May 2023 through my work regarding GraalVM I was presented an Oracle Ace Associate award in 2024.
 I hold a bunch of certificates, including all Java LTS releases since 1.5, and several from [Neo4j](https://graphacademy.neo4j.com/c/b8e56e73-6367-4a2d-a2fe-67c7bf5af206), covering databases versions 3.5, 4 and 5.
 The PRINCE2® Registered Practitioner was time-limited and ended in 2018.
