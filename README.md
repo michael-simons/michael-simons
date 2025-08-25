@@ -36,7 +36,7 @@ I created the following projects which I do actively maintain:
 * [Neo4j-Migrations](https://github.com/michael-simons/neo4j-migrations): Database refactoring toolkit for Neo4j, with integrations for Quarkus and Spring Boot and a native CLI.
 * [biking2](https://github.com/michael-simons/biking2): A project around cycling which I used to learn Spring Boot and educate about Spring Boot.
 * [biking3](https://github.com/michael-simons/biking3): The sequel of `biking2`, based on DuckDB 🐥 and Python 🐍 with Flask; I'm pretty happy with the outcome: Lots of cool SQL and my own static site generator.
-* [scrobbles4j](https://github.com/michael-simons/scrobbles4j): Years of giving talks about relational databases and tracking listening habbits culminated in a life application displaying my latest songs.
+* [scrobbles4j](https://codeberg.org/michael-simons/scrobbles4j): Years of giving talks about relational databases and tracking listening habbits culminated in a life application displaying my latest songs.
 
 My effort for the Neo4j Testcontainers integration started back in [2018](https://github.com/testcontainers/testcontainers-java/pull/993) and cumulated in Neo4j being one of six launch partners for the [AtomicJar official Testcontainers modules](https://www.atomicjar.com/2023/04/testcontainers-official-modules/).
 In mid 2023 I was recognized by [AtomicJar](https://www.atomicjar.com/2023/07/announcing-the-testcontainers-community-champions-program/) as [Community Champion](https://testcontainers.com/community-champions/michael-simons/) together with a great group of other [champions](https://testcontainers.com/community-champions/). I feel really honored to be part of that group.
