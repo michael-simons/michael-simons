@@ -14,9 +14,9 @@ The PRINCE2® Registered Practitioner was time-limited and ended in 2018.
 ![Oracle Ace Associate](img/badge_oracle_associate_2024.png)&#160;&#160;&#160;&#160;
 [![OCP Java SE 17 Developer](img/badge_ocp_java17.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=42AF9F7E99B6FC957DBCFA5DDD0FDC01B18FD3F8F49138BF7763766653D4722B)
 
-I am a Spring User for more than a decade and one of my earliest projects  ([Dailyfratze](https://dailyfratze.de/pages/technical_details?lang=en)) is still around, alive 
+I am a Spring User for more than a decade and one of my earliest projects–[Dailyfratze](https://dailyfratze.de/pages/technical_details?lang=en)–is still around, alive 
 and kicking.
-In 2015 I founded the Java user group [EuregJUG Maas-Rhine](http://euregjug.eu) together with @dl1ely.
+In 2015 I founded the Java user group [EuregJUG Maas-Rhine](http://euregjug.eu) together with [Stefan Pfeiffer](https://foojay.social/@spfeiffer).
 
 I have contributed to broad number of frameworks and ecosystems, such as
 
@@ -53,10 +53,8 @@ The book went to print in July 2024, and is available in various formats at Mann
 Last but not least, I have this [Advent of Code](https://github.com/michael-simons/aoc) repository in which I went a bit nuts in terms of programming languages:
 I love Java, but I try to stay on top of other things, too.
 
-Apart from all of that, I have a blog [info.michael-simons.eu](https://info.michael-simons.eu), my slides are on [speakerdeck](http://speakerdeck.com/michaelsimons), I answer
-stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons) and I do have a [LinkedIn profile](https://www.linkedin.com/in/michael-simons-196712139/).
-However, my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
-My old Twitter [account](https://twitter.com/rotnroll666) still exists, but I refuse to give this company any more content, and you shouldn't either. I won't accept any new follower requests there.
+Apart from all of that, I have a blog [info.michael-simons.eu](https://info.michael-simons.eu), my slides are on [speakerdeck](http://speakerdeck.com/michaelsimons) and I answer
+stuff on [stackoverflow](https://stackoverflow.com/users/1547989/michael-simons). While I do have a [Bluesky-](https://bsky.app/profile/rotnroll666.bsky.social) and [LinkedIn-Profile](https://www.linkedin.com/in/michael-simons-196712139/), my primary feed is on Mastodon, I am <a rel="me" href="https://mastodon.social/@rotnroll666">@rotnroll666@mastodon.social</a>.
 
 [![Spring Boot Buch](img/badge_springbootbuch.png)](http://springbootbuch.de)&#160;&#160;
 [![arc42 by example](img/badge_arc42byexample_leanpub.png)](https://leanpub.com/arc42byexample)&#160;&#160;
